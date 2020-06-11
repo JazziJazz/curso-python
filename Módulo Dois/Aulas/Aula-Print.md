@@ -6,7 +6,7 @@
 O comando __*sep=""*__ é utilizado como forma de separador. Sempre que uma virgula é adicionada ao programa. Um bom exemplo é o uso de CPF, print(555, 435, 518, 90). Concatenado com o comando de separação, nossa intenção é a adição de um ponto como separador entre os números. 
 
 O comando então deverá ficar assim: __print(555, 435, 518, 90, sep=".")__
-O resultado: 505.435.518.90. 
+O resultado: 565.435.518.90. 
 
 ### Explicando o comando END:
 
